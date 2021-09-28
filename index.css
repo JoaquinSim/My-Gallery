@@ -1,0 +1,30 @@
+body{
+  font-family: 'Arial' ,sans-serif;
+}
+.profile{
+  width: 290px;
+  height: 250px;
+  text-align: center;
+}
+.profile-image img{
+  position: relative;
+  width: 30%;
+  top: 20px;
+  border-radius: 10px;
+}
+.profile-information{
+  position: relative;
+  top: 10px;
+  width: 90%;
+  left: 5%;
+  height: 35px;
+}
+.profile-information h1{
+  font-size: 15px;
+}
+.profile-information h2{
+  position: relative;
+  top: -8px;
+  font-size: 10px;
+  color: #A6ACAF;
+}
