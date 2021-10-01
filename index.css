@@ -9,7 +9,7 @@ body{
 }
 .profile-image{
   position: relative;
-  top: 5%;
+  top: 10px;
 }
 .profile-image img{
   width: 20%;
@@ -17,7 +17,7 @@ body{
 }
 .profile-information{
   position: relative;
-  top: 5%;
+  top: 10px;
   width: 90%;
   left: 5%;
   height: 35px;
@@ -35,7 +35,7 @@ body{
   position: relative;
   display: flex;
   justify-content: center;
-  top: 8%;
+  top: 10px;
 }
 .profile-actions{
   background-color: #D7DBDD;
@@ -99,7 +99,7 @@ body{
   display: flex;
   width: 65%;
   height: 110px;
-  margin-top: -32%;
+  margin-top: -110px;
 }
 .photos-3 img{
   border-radius:10px;
@@ -131,7 +131,7 @@ footer .part-3{
   font-size: 12px;
   color: #D7DBDD;
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 500px) {
   .profile{
     height: 230px;
     width:100%;
@@ -162,7 +162,7 @@ footer .part-3{
     height: 250px;
   }
   .photos-3{
-    margin-top: -25%;
+    margin-top: -120px;
   }
   .photo5 {
   height: 120px;
@@ -204,7 +204,7 @@ footer .part-3{
     height: 505px;
   }
   .photos-3{
-    margin-top:-30%;
+    margin-top:-240px;
   }
   .photo5 {
   height: 240px;
